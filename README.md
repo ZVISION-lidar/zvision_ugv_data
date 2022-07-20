@@ -3,8 +3,9 @@ This repo contains links of data collected by ugv, including pointcloud, image, 
 
 ## Data Links
 ### ROS2 Bags:
-* BaiduNetdisk:
-* GoogleDrive:
+* BaiduNetdisk:  
+Link：https://pan.baidu.com/s/1gtbB_IxbHYlYXaoJEeHMcA  
+Access Code：u8as 
 ## Data Structure
 ### LiDARs
 
